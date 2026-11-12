@@ -24,7 +24,7 @@ const projects = [
     stack: ['React', 'JavaScript', 'Node.js', 'Web Development'],
     icon: Building2,
     featured: true,
-    link: 'bdproperties.sit',
+    link: 'https://bdproperties.site/',
     linkLabel: 'Ask about project',
   },
   {
