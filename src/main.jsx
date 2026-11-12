@@ -24,7 +24,7 @@ const projects = [
     stack: ['React', 'JavaScript', 'Node.js', 'Web Development'],
     icon: Building2,
     featured: true,
-    link: 'mailto:hamina172002@gmail.com?subject=BDProperties%20Project',
+    link: 'bdproperties.sit',
     linkLabel: 'Ask about project',
   },
   {
@@ -34,7 +34,7 @@ const projects = [
     description: 'A weather application focused on presenting weather information through a clean, easy-to-use interface.',
     stack: ['React', 'JavaScript', 'API Integration'],
     icon: CloudSun,
-    link: 'https://vercel.com/hamina/next-level-weather-app',
+    link: 'https://next-level-weather-app-ten.vercel.app/',
     linkLabel: 'View project',
   },
   {
@@ -44,7 +44,7 @@ const projects = [
     description: 'A movie discovery interface built to make browsing and exploring movie information simple and engaging.',
     stack: ['React', 'JavaScript', 'Frontend'],
     icon: Clapperboard,
-    link: 'https://vercel.com/hamina/movie-explorer',
+    link: 'https://movie-explorer-theta-seven.vercel.app/',
     linkLabel: 'View project',
   },
 ];
